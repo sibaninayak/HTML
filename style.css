@@ -1,0 +1,23 @@
+body {
+        background: lightpink;
+}
+
+h3 {
+    background: lightslategray;
+}
+
+#sec1 {
+    background: lightcyan;
+    height: 100px;
+    width : 100%;
+}
+#sec2 {
+    background: lightseagreen;
+    height: 100px;
+    width : 100%;
+}
+#sec3 {
+    background: lightyellow;
+    height: 100px;
+    width : 100%;
+}
